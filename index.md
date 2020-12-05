@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Download my Browser!
 
-I'm glad you are here. I plan to talk about ...
+This is my browser. It might not be fast and that great but this is the first time I made an app.
