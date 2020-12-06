@@ -6,5 +6,5 @@ This is my Scratch game. You need to solve some math problems related to integer
 
 <form action="https://theawesomecoder05.github.io">
   
-  <button class="btn" style="width:50%"><i class="link-button"></i> Check it out!</button>
+  <button class="btn" style="width:100%"><i class="link-button"></i> Check it out!</button>
 
