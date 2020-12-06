@@ -13,6 +13,7 @@ This is my Scratch game. You need to solve some math problems related to integer
 
 <form action="https://scratch.mit.edu/projects/446582109">
   
-    <button class="btn" style="width:100%"><i class="link-button"></i> On Scratch.Mit.Edu</button>
+    
+  <button class="btn" style="width:100%"><i class="link-button"></i> On Scratch.Mit.Edu</button>
   
 
