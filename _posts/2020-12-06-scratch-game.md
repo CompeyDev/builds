@@ -11,7 +11,7 @@ This is my Scratch game. You need to solve some math problems related to integer
 <br>
 
 <div class="center">
-<button onclick="window.location.href='http://theawesomecoder05.github.io/archives/Web%20Browser%20Application/WebBrowser-20201206T142317Z-001.zip';" class="btn"><i class="fa fa-download"></i> Download</button>
+<button onclick="window.location.href='https://theawesomecoder05.github.io/';" class="btn"><i class="fa fa-download"></i> Check it out!</button>
   </div>
 
   
