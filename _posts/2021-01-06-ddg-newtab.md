@@ -12,5 +12,8 @@ To add it to Chrome(ium):
 5. Select the extracted file.
 6. Open a New Tab and you will see the DuckDuckGo Page.
 
+<div class="center">
 <a href="https://theawesomecoder05.github.io/archives/DuckDuckGo-New-Tab/DuckDuckGo-New-Tab.zip">
   <img src="https://theawesomecoder05.github.io/archives/assets/Add%20To%20Chrome.jpg">
+  </div>
+  
