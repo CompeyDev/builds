@@ -12,11 +12,11 @@ Steps to install:
 5. The Web Browser will launch.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://theawesomecoder05.github.io/archives/assets/download.css">
+<link rel="stylesheet" href="https://theawesomecoder05.github.io/archives/assets/CSS/download.css">
 <br>
 <br>
 <br>
 
 <div class="center">
-<button onclick="window.location.href='http://theawesomecoder05.github.io/archives/Web%20Browser%20Application/WebBrowser-20201206T142317Z-001.zip';" class="btn"><i class="fa fa-download"></i> Download</button>
+<button onclick="window.location.href='https://bit.ly/35ET1W5';" class="btn"><i class="fa fa-download"></i> Download</button>
   </div>
