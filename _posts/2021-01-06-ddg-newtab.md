@@ -13,12 +13,12 @@ To add it to Chrome(ium):
 6. Open a New Tab and you will see the DuckDuckGo Page.
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://theawesomecoder05.github.io/archives/assets/download.css">
+<link rel="stylesheet" href="https://theawesomecoder05.github.io/archives/assets/CSS/download.css">
 <br>
 <br>
 <br>
 
 <div class="center">
-<button onclick="window.location.href='https://theawesomecoder05.github.io/archives/DuckDuckGo-New-Tab/DuckDuckGo-New-Tab.zip';" class="btn"><i class="fa fa-download"></i> Add to Chrome</button>
+<button onclick="window.location.href='https://bit.ly/38JmoIo';" class="btn"><i class="fa fa-download"></i> Add to Chrome</button>
   </div>
   
