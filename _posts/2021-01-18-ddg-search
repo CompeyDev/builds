@@ -13,5 +13,5 @@ I made a webpage that lets you search DuckDuckGo, the privacy-friendly search en
 <br>
 
 <div class="center">
-<button onclick="window.location.href='https://theawesomecoder05.github.io/duckduckgo-search/';" class="btn"><i class="fa fa-download"></i> Search Privately using DuckDuckGo!</button>
+<button onclick="window.location.href='https://theawesomecoder05.github.io/duckduckgo-search/';" class="btn">Search Privately using DuckDuckGo!</button>
   </div>
