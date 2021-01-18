@@ -1,6 +1,6 @@
 ---
 title: "DuckDuckGo New Tab Extension"
-date: 2020-12-06
+date: 2021-01-18
 ---
 
 I made a webpage that lets you search DuckDuckGo, the privacy-friendly search engine. Stop using Google and switch to DuckDuckGo. 
@@ -13,5 +13,5 @@ I made a webpage that lets you search DuckDuckGo, the privacy-friendly search en
 <br>
 
 <div class="center">
-<button onclick="window.location.href='https://bit.ly/38JmoIo';" class="btn"><i class="fa fa-download"></i> Search Privately using DuckDuckGo!</button>
+<button onclick="window.location.href='https://theawesomecoder05.github.io/duckduckgo-search/';" class="btn"><i class="fa fa-download"></i> Search Privately using DuckDuckGo!</button>
   </div>
