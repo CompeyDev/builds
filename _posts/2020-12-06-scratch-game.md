@@ -14,7 +14,7 @@ This is my Scratch game. You need to solve some math problems related to integer
 <div class="button" id="button-3">
   
   <div id="circle"></div>
-  <a href="https://bit.ly/35ET1W5">https://bit.ly/CRACKgame</a>
+  <a href="https://bit.ly/CRACKgame">Check it out!</a>
  </div>
  </center>
 
