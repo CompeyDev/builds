@@ -17,6 +17,11 @@ Steps to install:
 <br>
 <br>
 
-<div class="center">
-<button onclick="window.location.href='https://bit.ly/35ET1W5';" class="btn"><i class="fa fa-download"></i> Download</button>
-  </div>
+<center>
+<div class="button" id="button-3">
+  <i class="fa fa-download"></i>
+  
+  <div id="circle"></div>
+  <a href="https://bit.ly/35ET1W5">&nbsp;Download</a>
+ </div>
+ </center>
