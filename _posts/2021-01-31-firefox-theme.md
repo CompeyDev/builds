@@ -13,7 +13,10 @@ This is the Firefox Theme I recently made. You can add it to Firefox by clicking
 <br>
 <br>
 
-<div class="center">
-<button onclick="window.location.href='https://mzl.la/2MjawEO';" class="btn"><i class="fa fa-download"></i> Add to Firefox</button>
-  </div>
+<div class="button" id="button-3">
+  <i class="fa fa-download"></i>
+  
+    <div id="circle"></div>
+    <a href="#">&nbsp;Download</a>
+ </div>
   
