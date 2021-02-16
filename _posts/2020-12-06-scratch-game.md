@@ -10,9 +10,14 @@ This is my Scratch game. You need to solve some math problems related to integer
 <br>
 <br>
 
-<div class="center">
-<button onclick="window.location.href='https://bit.ly/3oJYKBp';" class="btn"> Check it out!</button>
-  </div>
+<center>
+<div class="button" id="button-3">
+  <i class="fa fa-download"></i>
+  
+  <div id="circle"></div>
+  <a href="https://bit.ly/35ET1W5">&nbsp;Download</a>
+ </div>
+ </center>
 
   
 

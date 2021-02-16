@@ -18,7 +18,11 @@ To add it to Chrome(ium):
 <br>
 <br>
 
-<div class="center">
-<button onclick="window.location.href='https://bit.ly/38JmoIo';" class="btn"><i class="fa fa-download"></i> Add to Chrome</button>
-  </div>
+<center>
+<div class="button" id="button-3">
+  <i class="fa fa-download"></i>
   
+  <div id="circle"></div>
+  <a href="https://bit.ly/38JmoIo">&nbsp;Download</a>
+ </div>
+ </center>
